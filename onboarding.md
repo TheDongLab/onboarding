@@ -1,7 +1,7 @@
 # Dong Laboratory Onboarding Information
 
 # Mission Statement
-
+TO BE ADDED
 
 # Expectations
 
