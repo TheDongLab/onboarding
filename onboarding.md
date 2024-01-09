@@ -211,7 +211,7 @@ Feel free to ask for guidance if you are uncomfortable with the process.
 2.  Create a pull request into the repository owned by TheDongLab.
 3.  Name potential reviewers for your pull request.
 4.  Once at least one lab member has approved your pull request, you or a reviewer may merge your pull request.
-The only exception to this policy is this repository ("onboarding") where, in addition to the above rules, Casey must also approve the pull request.
+The only exception to this policy is this repository ("onboarding") where, in addition to the above rules, Dr Dong must also approve the pull request.
 
 **Composition of Pull Requests:** Each pull request may contain one or more changesets.
 In keeping with good source control practice, each changeset or commit should contain *all* changes necessary for a particular fix or update.
