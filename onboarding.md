@@ -111,7 +111,7 @@ TBD
 We use Google Slides to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meetings` channel on Slack and is not intended to be shared outside the lab. If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments. 
 
 **Lab Meeting:** 
-- Lab meetings are scheduled for one hour on Wednesdays. All members of the Greene lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
+- Lab meetings are scheduled for one hour on Wednesdays. All members of the Dong lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
 
    **Meeting Agenda:**  The format of each meeting will be chosen by the lab meeting lead from the options below. The lead will rotate among lab members (see below) within the group. Guests with aligned research interests may join with a supermajority vote of lab members (>2/3) and are expected to attend and participate fully.
 
