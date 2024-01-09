@@ -1,6 +1,6 @@
-# Greene Lab Onboarding Repository
+# Dong Lab Onboarding Repository
 
-The repository is home to the onboarding information for the [Greene Lab](http://www.greenelab.com/) at the University of Colorado School of Medicine.
+The repository is home to the onboarding information for the [Dong Lab](http://www.donglab.org/) at Harvard Medical School and Yale School of Medicine.
 **See [`onboarding.md`](onboarding.md)** for the onboarding information.
 
 ## Contributing
@@ -19,3 +19,7 @@ Consider the following goals of the onboarding document:
 
 This repository is dedicated to the public domain.
 See the [`LICENSE`](LICENSE) file for more details.
+
+## Credit
+
+This repository was originally forked from Greene Lab's onboarding doc and modified from there. 
