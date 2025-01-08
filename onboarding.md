@@ -103,19 +103,43 @@ TBD
 
 ## Meetings
 
-**Scrum:** Our team's scrum process involves three components:
-
-    1. A weekly kick-off meeting at 10:30 AM ET Monday morning where individuals will lay out their goals for the week on Zoom.
-    2. A demo day meeting at 3:30 PM ET Friday afternoon where team members show off an accomplishment from the week in 3 minutes or fewer. This could be a new figure, section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
-
-We use Google Slides to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meetings` channel on Slack and is not intended to be shared outside the lab. If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments. 
-
 **Lab Meeting:** 
-- Lab meetings are scheduled for one hour on Wednesdays. All members of the Dong lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
+- Lab meetings are scheduled for two hours on Tuesdays 10-12pm. All members of the Dong lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
 
-   **Meeting Agenda:**  The format of each meeting will be chosen by the lab meeting lead from the options below. The lead will rotate among lab members (see below) within the group. Guests with aligned research interests may join with a supermajority vote of lab members (>2/3) and are expected to attend and participate fully.
+   **Meeting Structure:** The lab meeting includes two sessions:
 
-    The lead will choose the format for each meeting. The different options for meeting formats are outlined below. Each member is expected to lead at least two Braintrust meetings per year (one every 6 months). 
+**Update session:** Each member will give a 5-10min update,  plus Q&A for one or two questions or comments. No more than 10min per person. 
+
+**Spotlight session:** One spotlight member each week will give a ~20min presentation + 10min Q&A. The spotlight member doesn’t do Update session above. 
+
+We could add a 5min water break between the sessions.
+ 
+Everyone presenter will need to upload their slides to the shared Lab Meetings folder before the meeting. Each meeting will have a sub-folder named by the date (e.g. 10172024 for this week). The person who last uploaded their slides will present first. We will have a moderator for each meeting. The job of the moderator is to 1) keep timing each speaker to make sure they are on time; 2) check the slide folder to make sure everyone uploaded their slides before the meeting. The spotlight person in the current week will be the moderator of this week.
+ 
+For the **Update session**, it’s essential that one provides a concise yet informative summary of their progress in the past week. Here are some recommendation from ChatGPT for how to help you stay on track:
+
+1. Focus on Key Highlights
+Main Accomplishments: Start with one or two major achievements or milestones reached in the past week. This helps set the tone and draws attention to tangible progress.
+Challenges or Roadblocks: Briefly mention any significant obstacles you faced, as this can be a good opportunity to solicit quick feedback or suggestions.
+2. Current Focus
+Ongoing Tasks: Explain the current activities or experiments you are working on. Keep it high-level to avoid getting bogged down in details.
+Immediate Next Steps: Describe what you plan to accomplish in the coming week. This gives the team context for where you are heading.
+3. Relevant Data or Findings
+Key Data Points or Results: If you have new data, you should share the most relevant figures or insights. A single slide with a chart or table can help visualize this quickly.
+Implications or Questions: Briefly discuss what these findings might mean for your project and, if relevant, pose any questions you have for the group.
+4. Concise Slide(s)
+5 Slides Maximum: I would encourage you to use one summary slide with bullet points and, if necessary, a few more slides for any details or visuals. This will help you stay within the time limit.
+5. Prepare for Questions
+Anticipate One or Two Quick Questions: Members should be ready to address immediate questions or clarify points without going too in-depth. Remind that more extensive feedback can be provided outside of the meeting if needed.
+
+Additional Tips:
+Practice: Practicing beforehand can help you fine-tune your timing.
+Use a Timer: we will have a timer visible to help you keep track of time during your update.
+Be Visual and Concise: Visuals like charts or images can convey information quickly and effectively, so encourage to use them where appropriate.
+ 
+For the **Spotlight session**, we will rotate each member alternatively, so that you will have chance to share your work in depth. Again, please keep your presentation on time and well-prepared ahead of time. Give enough background and details so that people even not on your project can follow. Guests with aligned research interests may join with a super majority vote of lab members (>2/3) and are expected to attend and participate fully.
+ 
+We encourage different types of updates (e.g., see below) to maintain variety and prevent any repetition fatigue. Our goal is to keep the meeting dynamic and engaging for everyone. The different options for meeting formats are outlined below. Each member is expected to lead at least two Braintrust meetings per year (one every 6 months). 
 
    - **Format 1: Braintrust**
         - The meeting lead presents their own research/project to the group. Presenters often focus on open questions or challenges in their work. Occasionally, they present a new talk or set of slides that they intend to deliver at a meeting, job talk, etc. This is a way for the group to get familiar with each other’s work. It is also a good way to get feedback, advice, or help with research if needed.
@@ -130,24 +154,21 @@ We use Google Slides to share figures or paper sections for the demo day meeting
    - **Format 6: Preprint Review**
        - Pre-print is discussed by the group. The discussion is led by the meeting leader,  and all members are expected to be familiar with the content. The review is written collaboratively, but another member (not the meeting leader) formats, formalizes and uploads to the pre-print server as a comment.
 
-  **Lab Meeting Lead:**  A member of the Dong lab is expected to present/lead each lab meeting as scheduled in the lab meeting calendar (found [https://docs.google.com/spreadsheets/d/1Qv_KqoWvdW7XnbMYYanniLgFCylrBKv_oPOv7jUPEi4/edit?usp=sharing])
-   - Each member is expected to sign up as lead by the end of the previous academic semester (e.g., sign up by December for the Spring semester, sign up by June for the Fall semester.)
-   - Lab meeting sign-ups will happen twice a year. Sign-ups will open in December and June for the upcoming 6 months.
-   - Each member will sign up as lead for at least 2 lab meetings each semester (6 months). At least one of these meetings is expected to be a Braintrust meeting.
+  **Lab Meeting Schedule:**  A member of the Dong lab is expected to present at their Spotlight session as scheduled in the lab meeting calendar (found [https://docs.google.com/spreadsheets/d/1Qv_KqoWvdW7XnbMYYanniLgFCylrBKv_oPOv7jUPEi4/edit?usp=sharing])
+   - Each member is expected to sign up as Spotlight presenter by the end of the year. Dr Dong will send email reminder. 
+   - Each member will sign up as Spotlight presenter for at least four lab meetings year (e.g. two in each half an year). At least one of these meetings is expected to be a Braintrust meeting every six months.
 
   **Ad-Hoc Meetings:** After meetings have been scheduled for the semester, any member can add an ad hoc meeting as needed.
    - Ad hoc meetings are meant to help lab members get advice and help on projects, prepare for talks, oral exams, etc.
 
-**Individual Meetings:** We schedule weekly individual meetings.
- Once you join the lab, contact Dr Dong and Karen to set up a time.
- These are set up for a term to accommodate class schedules.
- We don’t reschedule these meetings by default if one of the parties (Dr Dong or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Dr Dong and Karen to reschedule.
- The goal of the weekly meeting is to:
+**Individual Meetings:** While you have change to give updates weekly, you are still welcomed to schedule individual meetings with Dr. Dong. 
+ We don’t reschedule these meetings by default if one of the parties (Dr Dong or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Dr Dong and Corinne to reschedule.
+ The goal of the meeting is to:
 
  1.  Discuss challenges.
  2.  Plan strategy (project related, personal career, etc).
 
-**Triannual Self Reflection:** Every four months students, postdocs, and staff will individually meet with Dr Dong to discuss their existing goals, current progress made and set goals for the next interval.
+**Self Reflection:** Every fix months students, postdocs, and staff will individually meet with Dr Dong to discuss their existing goals, current progress made and set goals for the next interval.
 To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
 
 - publications: submitted/accepted/published
