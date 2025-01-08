@@ -107,9 +107,8 @@ TBD
 
    **Meeting Structure:** The lab meeting includes two sessions:
 
-    - **Update session:** Each member will give a 5-10min update,  plus Q&A for one or two questions or comments. No more than 10min per person. 
-
-    - **Spotlight session:** One spotlight member each week will give a ~20min presentation + 10min Q&A. The spotlight member doesn’t do Update session above. 
+  - **Update session:** Each member will give a 5-10min update,  plus Q&A for one or two questions or comments. No more than 10min per person. 
+  - **Spotlight session:** One spotlight member each week will give a ~20min presentation + 10min Q&A. The spotlight member doesn’t do Update session above. 
 
 We could add a 5min water break between the sessions.
  
